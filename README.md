@@ -1,6 +1,6 @@
 # Salone del Mobile 2024: Exploring Key Topics
 
-**1. Title:** Culinary Innovations & Design: EuroCucina 2024
+**1. <h2> Culinary Innovations & Design: EuroCucina 2024
 
 **Abstract:** EuroCucina, the biennial kitchen showcase within Salone del Mobile, returns in 2024, exploring the latest trends in kitchen design and technology. This year's edition focuses on the intersection of food and design, featuring live demonstrations, cutting-edge appliances, and sustainable solutions for the modern kitchen.
 
@@ -8,7 +8,7 @@
 
 **Keywords:** Kitchen design, culinary trends, smart appliances, sustainable materials, live demonstrations
 
-**2. Title:** Reimagine the Bathroom: The International Bathroom Exhibition 2024
+**2. <h2> Reimagine the Bathroom: The International Bathroom Exhibition 2024
 
 **Abstract:**  The International Bathroom Exhibition 2024 invites visitors to explore the evolution of the bathroom space. Discover innovative fixtures, wellness-focused features, and sustainable solutions that redefine the modern bathroom experience.
 
@@ -16,7 +16,7 @@
 
 **Keywords:** Bathroom design, wellness features, sustainable practices, innovative technologies, luxurious experience
 
-**3. Title:** Design for a Greener Future: Sustainability at Salone del Mobile 2024
+**3. <h2> Design for a Greener Future: Sustainability at Salone del Mobile 2024
 
 **Abstract:** Sustainability remains a core focus at Salone del Mobile 2024. Explore eco-friendly materials, responsible manufacturing processes, and innovative solutions that promote a greener future for the design industry.
 
@@ -24,7 +24,7 @@
 
 **Keywords:** Sustainable design, eco-friendly materials, responsible manufacturing, environmental impact, greener future
 
-**4. Title:** Salone Satellite: Launching the Stars of Tomorrow
+**4. <h2> Salone Satellite: Launching the Stars of Tomorrow
 
 **Abstract:** Salone Satellite provides a platform for emerging design talents to showcase their work to a global audience. Discover the creativity and innovation of the next generation of designers.
 
@@ -32,7 +32,7 @@
 
 **Keywords:** Emerging designers, design innovation, global platform, future of design, creative talent
 
-**5. Title:** Spark Curiosity and Ignite Inspiration: Talks at Salone del Mobile 2024
+**5. <h2> Spark Curiosity and Ignite Inspiration: Talks at Salone del Mobile 2024
 
 **Abstract:** Engage in thought-provoking discussions and gain insights from industry leaders at the Salone del Mobile 2024 talks program.
 
@@ -40,7 +40,7 @@
 
 **Keywords:** Design talks, industry leaders, thought-provoking discussions, future trends, design inspiration
 
-**6. Title:** Navigating the Design Landscape: Salone del Mobile 2024 Exhibition Layout
+**6. <h2> Navigating the Design Landscape: Salone del Mobile 2024 Exhibition Layout
 
 **Abstract:**  Explore the extensive Salone del Mobile 2024 exhibition layout, featuring dedicated sections for various design categories and a diverse range of exhibitors.
 
